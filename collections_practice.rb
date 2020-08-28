@@ -14,6 +14,6 @@ end
 
 def swap_elements(arr4)
   arr4.each do |words|
-    arr4.sort_by {|words| [words[0], words[2], words[1]]}
+    arr4.sort_by {|words| [words[0], words[1], words[2]]}
   end
 end
