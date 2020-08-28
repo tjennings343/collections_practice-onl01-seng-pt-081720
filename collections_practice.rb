@@ -12,6 +12,4 @@ def sort_array_char_count(arr3)
   arr3.sort{|x,y| x.length <=> y.length}
 end
 
-def swap_elements(arr4)
-  arr4.swap do |1,3|
-end
+
