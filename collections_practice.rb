@@ -39,3 +39,18 @@ def sum_array(arr8)
   end
   sum
 end
+
+def add_s(arr9)
+  arr9.each do |word|
+    if arr9|1| == word
+      word
+    else
+      word + "s"
+    end
+  end
+  
+      
+
+
+
+
