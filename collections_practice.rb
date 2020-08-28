@@ -19,3 +19,9 @@ end
 def reverse_array(arr5)
   arr5.reverse
 end
+
+def kesha_maker(arr6)
+  arr6.each do |dolla|
+    dolla[2] = $
+  end
+end
