@@ -44,8 +44,8 @@ def add_s(arr9)
   arr9.each do |word|
     if arr9|1| == word
       word
-    end
     else
       word + "s"
     end
   end
+end
