@@ -49,8 +49,3 @@ def add_s(arr9)
     end
   end
   
-      
-
-
-
-
