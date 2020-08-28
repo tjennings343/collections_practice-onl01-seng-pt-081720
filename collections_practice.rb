@@ -28,6 +28,6 @@ end
 
 def find_a(arr7)
   arr7.find_all do |letter|
-    letter = "a"
+    letter[0] == "a"
   end
 end
