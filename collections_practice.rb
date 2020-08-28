@@ -25,3 +25,9 @@ def kesha_maker(arr6)
     dolla[2] = "$"
   end
 end
+
+def find_a(arr7)
+  arr7.find_all do |letter|
+    letter[0] = "a"
+  end
+end
