@@ -15,3 +15,6 @@ end
 def swap_elements(arr4)
   arr4[0], arr4[1], arr4[2] = arr4[0], arr4[2], arr4[1]
 end
+
+def reverse_array(arr5)
+  arr5.reverse
