@@ -13,5 +13,6 @@ def sort_array_char_count(arr3)
 end
 
 def swap_elements(arr4)
-  arr4.sort
+  arr4.each do |words|
+    arr4.sort_by {|words| [words[2], words[0], words[1]]}
 end
