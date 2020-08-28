@@ -31,3 +31,11 @@ def find_a(arr7)
     letter[0] == "a"
   end
 end
+
+def sum_array(arr8)
+  sum = 0
+  arr8.each do |num|
+    sum += 0
+  end
+  sum
+end
